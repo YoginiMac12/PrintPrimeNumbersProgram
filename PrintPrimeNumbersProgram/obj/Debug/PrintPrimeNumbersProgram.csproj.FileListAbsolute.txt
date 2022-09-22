@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\PrintPrimeNumbersProgram\PrintPrimeNumbersProgram\bin\Debug\PrintPrimeNumbersProgram.exe.config
+C:\Users\HP\source\repos\PrintPrimeNumbersProgram\PrintPrimeNumbersProgram\bin\Debug\PrintPrimeNumbersProgram.exe
+C:\Users\HP\source\repos\PrintPrimeNumbersProgram\PrintPrimeNumbersProgram\bin\Debug\PrintPrimeNumbersProgram.pdb
+C:\Users\HP\source\repos\PrintPrimeNumbersProgram\PrintPrimeNumbersProgram\obj\Debug\PrintPrimeNumbersProgram.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PrintPrimeNumbersProgram\PrintPrimeNumbersProgram\obj\Debug\PrintPrimeNumbersProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\PrintPrimeNumbersProgram\PrintPrimeNumbersProgram\obj\Debug\PrintPrimeNumbersProgram.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PrintPrimeNumbersProgram\PrintPrimeNumbersProgram\obj\Debug\PrintPrimeNumbersProgram.exe
+C:\Users\HP\source\repos\PrintPrimeNumbersProgram\PrintPrimeNumbersProgram\obj\Debug\PrintPrimeNumbersProgram.pdb
